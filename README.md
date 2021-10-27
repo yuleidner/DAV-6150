@@ -40,5 +40,7 @@ M5: Classification Model Performance Metrics
 	
 	customized functions produce results that are validated by the scikit-learn pre-built functions including explanations as to why the results of your custom built functions vary slightly from those of the pre-built scikit-learn functions.
 
+M6: Project 1
+
 
 
