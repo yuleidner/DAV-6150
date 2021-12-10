@@ -1,0 +1,11 @@
+{
+ "description": "A dataset of capital projects data scraped from the \"Capital Project Detail Data\" pdfs published by the New York City Office of Management and Budget.",
+ "keywords": [
+  "NYC",
+  "Capital Spending",
+  "Capital Budget"
+ ],
+ "path": "/ipfs/QmSPfW5Ea7oBbWpm1ZeXW7kdfs1vibvpQm382u6pvhJHXY",
+ "qri": "md:0",
+ "title": "NYC Capital Project Detail Data"
+}

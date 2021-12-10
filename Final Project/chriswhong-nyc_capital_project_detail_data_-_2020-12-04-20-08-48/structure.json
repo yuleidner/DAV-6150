@@ -1,0 +1,206 @@
+{
+ "checksum": "/ipfs/QmfTjLJN74PXqdoBmxeZDzpL3V9tQrDHq8HgHGG75P81vi",
+ "depth": 2,
+ "entries": 5200,
+ "format": "csv",
+ "formatConfig": {
+  "headerRow": true,
+  "lazyQuotes": true
+ },
+ "length": 1603804,
+ "path": "/ipfs/QmUesUVKpESFwPqnAvhPvFonE7rtFfMJzjeTgH5Xn3oLm9",
+ "qri": "st:0",
+ "schema": {
+  "items": {
+   "items": [
+    {
+     "description": "the unique identifier for this capital project",
+     "title": "project_id",
+     "type": "string"
+    },
+    {
+     "description": "a description of the capital project",
+     "title": "project_description",
+     "type": "string"
+    },
+    {
+     "description": "the id of the agency that manages this capital project",
+     "title": "managing_agency_id",
+     "type": "integer"
+    },
+    {
+     "description": "the name of the agency that manages this capital project",
+     "title": "managing_agency",
+     "type": "string"
+    },
+    {
+     "description": "the category assigned to this project in the ten-year capital strategy",
+     "title": "ten_year_plan_category",
+     "type": "string"
+    },
+    {
+     "description": "space-delimited list of community district codes that this project serves.  (101 = Manhattan Community District 1)",
+     "title": "community_boards_served",
+     "type": "string"
+    },
+    {
+     "description": "the borough that this capital project serves.  One of NYC's five boroughs or 'Citywide'",
+     "title": "borough",
+     "type": "string"
+    },
+    {
+     "description": "the capital budget lines that fund this capital project",
+     "title": "budget_lines",
+     "type": "string"
+    },
+    {
+     "description": "the original budgeted amount for this capital project",
+     "title": "original_budget",
+     "type": "integer"
+    },
+    {
+     "description": "prior actual city-funded spending on this capital project",
+     "title": "city_prior_actuals",
+     "type": "integer"
+    },
+    {
+     "description": "planned city-funded spending on this capital project for a specific fiscal year",
+     "title": "city2021",
+     "type": "integer"
+    },
+    {
+     "description": "planned city-funded spending on this capital project for a specific fiscal year",
+     "title": "city2022",
+     "type": "integer"
+    },
+    {
+     "description": "planned city-funded spending on this capital project for a specific fiscal year",
+     "title": "city2023",
+     "type": "integer"
+    },
+    {
+     "description": "planned city-funded spending on this capital project for a specific fiscal year",
+     "title": "city2024",
+     "type": "integer"
+    },
+    {
+     "description": "planned city-funded spending on this capital project for a specific fiscal year",
+     "title": "city2025",
+     "type": "integer"
+    },
+    {
+     "description": "?",
+     "title": "city_r_t_c",
+     "type": "integer"
+    },
+    {
+     "description": "total planned city-funded spending on this capital project",
+     "title": "city_total",
+     "type": "integer"
+    },
+    {
+     "description": "prior actual non-city-funded spending on this capital project",
+     "title": "non_city_prior_actuals",
+     "type": "integer"
+    },
+    {
+     "description": "planned non-city-funded spending on this capital project for a specific fiscal year",
+     "title": "non_city2021",
+     "type": "integer"
+    },
+    {
+     "description": "planned non-city-funded spending on this capital project for a specific fiscal year",
+     "title": "non_city2022",
+     "type": "integer"
+    },
+    {
+     "description": "planned non-city-funded spending on this capital project for a specific fiscal year",
+     "title": "non_city2023",
+     "type": "integer"
+    },
+    {
+     "description": "planned non-city-funded spending on this capital project for a specific fiscal year",
+     "title": "non_city2024",
+     "type": "integer"
+    },
+    {
+     "description": "planned non-city-funded spending on this capital project for a specific fiscal year",
+     "title": "non_city2025",
+     "type": "integer"
+    },
+    {
+     "description": "?",
+     "title": "non_city_r_t_c",
+     "type": "integer"
+    },
+    {
+     "description": "total planned non-city-funded spending on this capital project",
+     "title": "non_city_total",
+     "type": "integer"
+    },
+    {
+     "description": "prior actual spending on this capital project",
+     "title": "combined_prior_actuals",
+     "type": "integer"
+    },
+    {
+     "description": "planned spending on this capital project for a specific fiscal year",
+     "title": "combined2021",
+     "type": "integer"
+    },
+    {
+     "description": "planned spending on this capital project for a specific fiscal year",
+     "title": "combined2022",
+     "type": "integer"
+    },
+    {
+     "description": "planned spending on this capital project for a specific fiscal year",
+     "title": "combined2023",
+     "type": "integer"
+    },
+    {
+     "description": "planned spending on this capital project for a specific fiscal year",
+     "title": "combined2024",
+     "type": "integer"
+    },
+    {
+     "description": "planned spending on this capital project for a specific fiscal year",
+     "title": "combined2025",
+     "type": "integer"
+    },
+    {
+     "description": "?",
+     "title": "combined_r_t_c",
+     "type": "integer"
+    },
+    {
+     "description": "total planned spending on this capital project",
+     "title": "combined_total",
+     "type": "integer"
+    },
+    {
+     "description": "an explanation for the delays observed in a capital project",
+     "title": "explanation_for_delay",
+     "type": "string"
+    },
+    {
+     "description": "additional location details for this captial project",
+     "title": "project_location",
+     "type": "string"
+    },
+    {
+     "description": "additional scope information for this capital project",
+     "title": "scope_summary",
+     "type": "string"
+    },
+    {
+     "description": "the original pdf filename that this row of data was scraped from",
+     "title": "source_pdf",
+     "type": "string"
+    }
+   ],
+   "type": "array"
+  },
+  "type": "array"
+ }
+}
