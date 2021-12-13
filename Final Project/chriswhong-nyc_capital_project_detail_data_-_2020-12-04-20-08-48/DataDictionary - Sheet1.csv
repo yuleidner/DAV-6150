@@ -1,0 +1,38 @@
+Title,Type,Description
+project_id,string,the unique identifier for this capital project
+project_description,string,a description of the capital project
+managing_agency_id,integer,the id of the agency that manages this capital project
+managing_agency,string,the name of the agency that manages this capital project
+ten_year_plan_category,string,the category assigned to this project in the ten-year capital strategy
+community_boards_served,string,space-delimited list of community district codes that this project serves. (101 = Manhattan Community District 1)
+borough,string,the borough that this capital project serves. One of NYC's five boroughs or 'Citywide'
+budget_lines,string,the capital budget lines that fund this capital project
+original_budget,integer,the original budgeted amount for this capital project
+city_prior_actuals,integer,prior actual city-funded spending on this capital project
+city2021,integer,planned city-funded spending on this capital project for a specific fiscal year
+city2022,integer,planned city-funded spending on this capital project for a specific fiscal year
+city2023,integer,planned city-funded spending on this capital project for a specific fiscal year
+city2024,integer,planned city-funded spending on this capital project for a specific fiscal year
+city2025,integer,planned city-funded spending on this capital project for a specific fiscal year
+city_r_t_c,integer,?
+city_total,integer,total planned city-funded spending on this capital project
+non_city_prior_actuals,integer,prior actual non-city-funded spending on this capital project
+non_city2021,integer,planned non-city-funded spending on this capital project for a specific fiscal year
+non_city2022,integer,planned non-city-funded spending on this capital project for a specific fiscal year
+non_city2023,integer,planned non-city-funded spending on this capital project for a specific fiscal year
+non_city2024,integer,planned non-city-funded spending on this capital project for a specific fiscal year
+non_city2025,integer,planned non-city-funded spending on this capital project for a specific fiscal year
+non_city_r_t_c,integer,?
+non_city_total,integer,total planned non-city-funded spending on this capital project
+combined_prior_actuals,integer,prior actual spending on this capital project
+combined2021,integer,planned spending on this capital project for a specific fiscal year
+combined2022,integer,planned spending on this capital project for a specific fiscal year
+combined2023,integer,planned spending on this capital project for a specific fiscal year
+combined2024,integer,planned spending on this capital project for a specific fiscal year
+combined2025,integer,planned spending on this capital project for a specific fiscal year
+combined_r_t_c,integer,?
+combined_total,integer,total planned spending on this capital project
+explanation_for_delay,string,an explanation for the delays observed in a capital project
+project_location,string,additional location details for this captial project
+scope_summary,string,additional scope information for this capital project
+source_pdf,string,the original pdf filename that this row of data was scraped from
