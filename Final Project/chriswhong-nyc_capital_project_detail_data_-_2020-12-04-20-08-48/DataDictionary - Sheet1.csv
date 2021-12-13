@@ -14,7 +14,7 @@ city2022,integer,planned city-funded spending on this capital project for a spec
 city2023,integer,planned city-funded spending on this capital project for a specific fiscal year
 city2024,integer,planned city-funded spending on this capital project for a specific fiscal year
 city2025,integer,planned city-funded spending on this capital project for a specific fiscal year
-city_r_t_c,integer,?
+city_r_t_c,integer,TOTAL AMOUNT OF CITY FUNDS REQUIRED TO COMPLETE A CAPITAL PROJECT  AFTER THE FIFTH FISCAL YEAR
 city_total,integer,total planned city-funded spending on this capital project
 non_city_prior_actuals,integer,prior actual non-city-funded spending on this capital project
 non_city2021,integer,planned non-city-funded spending on this capital project for a specific fiscal year
@@ -22,7 +22,7 @@ non_city2022,integer,planned non-city-funded spending on this capital project fo
 non_city2023,integer,planned non-city-funded spending on this capital project for a specific fiscal year
 non_city2024,integer,planned non-city-funded spending on this capital project for a specific fiscal year
 non_city2025,integer,planned non-city-funded spending on this capital project for a specific fiscal year
-non_city_r_t_c,integer,?
+non_city_r_t_c,integer,TOTAL AMOUNT OF NON-CITY FUNDS REQUIRED TO COMPLETE A CAPITAL PROJECT  AFTER THE FIFTH FISCAL YEAR
 non_city_total,integer,total planned non-city-funded spending on this capital project
 combined_prior_actuals,integer,prior actual spending on this capital project
 combined2021,integer,planned spending on this capital project for a specific fiscal year
@@ -30,7 +30,7 @@ combined2022,integer,planned spending on this capital project for a specific fis
 combined2023,integer,planned spending on this capital project for a specific fiscal year
 combined2024,integer,planned spending on this capital project for a specific fiscal year
 combined2025,integer,planned spending on this capital project for a specific fiscal year
-combined_r_t_c,integer,?
+combined_r_t_c,integer,COMBINED TOTAL AMOUNT OF FUNDS REQUIRED TO COMPLETE A CAPITAL PROJECT  AFTER THE FIFTH FISCAL YEAR
 combined_total,integer,total planned spending on this capital project
 explanation_for_delay,string,an explanation for the delays observed in a capital project
 project_location,string,additional location details for this captial project
